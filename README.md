@@ -1,4 +1,4 @@
-#CS173: Intermediate Computer Science
+# CS173: Intermediate Computer Science
 
 ## Hw 8 : MyShoppingList Class
 
