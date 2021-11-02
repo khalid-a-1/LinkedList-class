@@ -1,0 +1,2 @@
+all:
+	g++ -std=c++11 ShopSingleLinkedTest.cpp ShoppingList.h ShoppingList.cpp LinkedList.h -o shop
